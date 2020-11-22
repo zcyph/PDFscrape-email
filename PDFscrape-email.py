@@ -34,7 +34,7 @@ while True:
         for email in emails:
             print(email)
 
-        # Ask user if they would like contents copied to clipboard
+        # Ask user if they want contents copied to clipboard
         CopyToClipboard = input("\nCopy to clipboard? (y/n) ")
 
         # Use Xerox to copy to clipboard (convert to string first using .join)
