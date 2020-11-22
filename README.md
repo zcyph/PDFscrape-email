@@ -40,4 +40,4 @@ Or run it without executable permissions:
 
 If the file does not reside in the same folder as the script, enter the full absolute path including file name and extension. You can also omit the filename argument and enter the filename when prompted after running the script instead:
 
-![](https://github.com/zcyph/PDFscrape-email/blob/master/PDFscrape.png?raw=true)
+![](https://github.com/zcyph/PDFscrape-email/blob/master/screenshot.png?raw=true)
