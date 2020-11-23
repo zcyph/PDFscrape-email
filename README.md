@@ -1,3 +1,5 @@
+PDFscrape-email: a script to extract emails from PDF. If you're having trouble manually copying a number of email addresess out of a PDF, give this a try. I hope it helps!
+
 ## Requirements
 
 **Python**
@@ -41,3 +43,5 @@ Or run it without executable permissions:
 If the file does not reside in the same folder as the script, enter the full absolute path including file name and extension. You can also omit the filename argument and enter the filename when prompted after running the script instead:
 
 ![](https://github.com/zcyph/PDFscrape-email/blob/master/screenshot.png?raw=true)
+
+The script will give you the option of copying the list of emails to clipboard, where you can directly paste it into your email or other applications - and it will also ask you if you'd like to save the list to a text file.
